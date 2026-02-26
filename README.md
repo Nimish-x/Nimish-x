@@ -1,34 +1,81 @@
-# Hi, I'm Nimish 👋
+<h1 align="center">Hi 👋, I'm Nimish</h1>
 
-🚀 **AI/ML & Data Science Enthusiast | Learning & Creating**
+<h3 align="center">🚀 AI/ML Engineer in Progress | Building Intelligent Systems</h3>
 
-### 🔬 About Me
-- 🌱 Currently learning **Machine Learning, Data Science, and Generative AI**
-- 📊 Passionate about extracting insights from data and building intelligent applications
-- 🧠 Exploring modern AI techniques like **RAG (Retrieval-Augmented Generation)**, transformers, and LLM pipelines
-- ⚡ Interested in practical applications of ML in analytics, automation, and decision-making
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Building+LLM+%26+RAG+Systems;Full+Stack+AI+Developer" />
+</p>
 
-### 🛠️ Tech Stack
-- **Languages:** Python, TypeScript
-- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **ML Frameworks:** Scikit-learn, TensorFlow, PyTorch
-- **AI/LLM Tools:** LangChain, Hugging Face Transformers, OpenAI APIs
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Web & APIs:** Flask RESTful, FastAPI
-- **Frontend:** Vue.js
-- **Other Tools:** Jupyter Notebook, Docker, GitHub Actions
+---
 
-### 📂 Areas I Work On
-- 📈 Data Analysis & Visualization
-- 🧩 Machine Learning Models (classification, regression, clustering)
-- 🔍 Feature Engineering & Model Evaluation
-- 🤖 Generative AI & LLM Applications (chatbots, RAG pipelines)
-- ⚙️ Model Deployment with Flask RESTful APIs
-- 🗄️ Database Integration for AI/ML projects
-- 🎨 Building interactive dashboards and apps with Vue.js
+## 🧠 About Me
 
+- 🔬 Passionate about **AI, Machine Learning & Data Science**
+- 📊 Love transforming raw data into meaningful insights
+- 🤖 Exploring **Generative AI, RAG pipelines, and Transformer architectures**
+- ⚡ Focused on building **real-world AI applications**
+- 🏗️ Interested in scalable ML systems and production-ready deployments
 
+---
 
-### 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/nimish-tilwani/
+## 🛠️ Tech Stack
 
+### 💻 Languages
+`Python` • `TypeScript`
+
+### 📊 Data Science
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+
+### 🤖 Machine Learning
+`Scikit-learn` • `TensorFlow` • `PyTorch`
+
+### 🧠 AI / LLM Ecosystem
+`LangChain` • `Hugging Face Transformers` • `OpenAI APIs`
+
+### 🗄️ Databases
+`MySQL` • `PostgreSQL` • `MongoDB`
+
+### 🌐 Backend & APIs
+`Flask RESTful` • `FastAPI`
+
+### 🎨 Frontend
+`Vue.js`
+
+### ⚙️ Tools & DevOps
+`Docker` • `GitHub Actions` • `Jupyter Notebook` • `Git`
+
+---
+
+## 🚀 What I Build
+
+- 📈 End-to-end ML pipelines
+- 🔍 Feature engineering & model evaluation workflows
+- 🤖 LLM-powered applications (Chatbots, RAG systems)
+- ⚙️ REST API deployments for ML models
+- 🗄️ Database-integrated AI systems
+- 🎨 Interactive dashboards & full-stack AI apps
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimish-tilwani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nimish%20Tilwani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>Engineering intelligent systems. Learning fast. Building faster.</i>
+</p>
