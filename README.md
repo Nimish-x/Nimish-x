@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nimish 👋
 
-<!--
-**Nimish-x/Nimish-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI/ML & Data Science Enthusiast | Learning & Creating**
 
-Here are some ideas to get you started:
+### 🔬 About Me
+- 🌱 Currently learning **Machine Learning, Data Science, and Generative AI**
+- 📊 Passionate about extracting insights from data and building intelligent applications
+- 🧠 Exploring modern AI techniques like **RAG (Retrieval-Augmented Generation)**, transformers, and LLM pipelines
+- ⚡ Interested in practical applications of ML in analytics, automation, and decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, TypeScript
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **ML Frameworks:** Scikit-learn, TensorFlow, PyTorch
+- **AI/LLM Tools:** LangChain, Hugging Face Transformers, OpenAI APIs
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Web & APIs:** Flask RESTful, FastAPI
+- **Frontend:** Vue.js
+- **Other Tools:** Jupyter Notebook, Docker, GitHub Actions
+
+### 📂 Areas I Work On
+- 📈 Data Analysis & Visualization
+- 🧩 Machine Learning Models (classification, regression, clustering)
+- 🔍 Feature Engineering & Model Evaluation
+- 🤖 Generative AI & LLM Applications (chatbots, RAG pipelines)
+- ⚙️ Model Deployment with Flask RESTful APIs
+- 🗄️ Database Integration for AI/ML projects
+- 🎨 Building interactive dashboards and apps with Vue.js
+- 🗂️ Working with structured and unstructured datasets
+
+### 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nimish-tilwani/
+
