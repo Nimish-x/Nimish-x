@@ -27,10 +27,6 @@
 - 🗄️ Database Integration for AI/ML projects
 - 🎨 Building interactive dashboards and apps with Vue.js
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimish-x&layout=compact&theme=radical)
-
-
 
 
 ### 🌐 Connect With Me
