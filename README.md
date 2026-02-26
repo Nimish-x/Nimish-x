@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimish</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer | Full Stack Developer | Building Scalable Intelligent Systems
+🚀 AI/ML Engineer in Progress| Building Scalable Intelligent Systems
 </h3>
 
 <p align="center">
@@ -55,14 +55,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
